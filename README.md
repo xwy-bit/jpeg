@@ -13,3 +13,5 @@ Then
     lady_py.jpg # it requests output image path
     ```
 - check `lady_py.jpg`
+
+![images](lady_py.jpg)
